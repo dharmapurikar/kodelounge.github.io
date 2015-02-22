@@ -60,7 +60,7 @@ html {
 */
 html, button, input, select, textarea {
     font-family: sans-serif;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 html, body {
     overflow-x: hidden;
@@ -72,7 +72,7 @@ html, body {
 */
 body {
     margin: 0;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Quicksand', sans-serif;
 }
 
 /*
@@ -592,7 +592,8 @@ Hero
 }
 .hero h1 span {
     display: inline-block;
-    color: #a1a9b0;
+    /*color: #a1a9b0;*/
+    color: #73d0da;
 }
 #home {
     width: 100%;
