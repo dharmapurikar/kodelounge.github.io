@@ -1091,3 +1091,17 @@ Waypoints
     -webkit-animation-delay: 1s;
     animation-delay: 1s;
 }
+
+
+/*Custom styles*/
+
+.kodelounge {
+    font-family: "Exo 2";
+    font-weight: 600;
+    font-size: 5em;
+}
+
+.kodelounge-style {
+    font-family: "Exo 2";
+    font-weight: 600;
+}
